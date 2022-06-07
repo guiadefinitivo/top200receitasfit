@@ -886,7 +886,7 @@ a {
   text-align: center;
 }
 .cid-t867zsDnfI {
-  padding-top: 6rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -912,6 +912,65 @@ a {
 }
 .cid-t867AgYmYC img {
   width: 100%;
+}
+.cid-t80RRLKUYV {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-t80RRLKUYV .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-t85WJQCGob {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-t85WJQCGob img,
+.cid-t85WJQCGob .item-img {
+  width: 100%;
+}
+.cid-t85WJQCGob .item:focus,
+.cid-t85WJQCGob span:focus {
+  outline: none;
+}
+.cid-t85WJQCGob .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-t85WJQCGob .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-t85WJQCGob .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-t85WJQCGob .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-t85WJQCGob .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-t85WJQCGob .mbr-section-title {
+  color: #232323;
+}
+.cid-t85WJQCGob .mbr-text,
+.cid-t85WJQCGob .mbr-section-btn {
+  text-align: left;
+}
+.cid-t85WJQCGob .item-title {
+  text-align: left;
+}
+.cid-t85WJQCGob .item-subtitle {
+  text-align: center;
 }
 .cid-t80uTv4kL0 {
   padding-top: 4rem;
@@ -977,65 +1036,6 @@ a {
 }
 .cid-t80uTv4kL0 H3 {
   color: #000000;
-}
-.cid-t80RRLKUYV {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-t80RRLKUYV .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-t85WJQCGob {
-  padding-top: 1rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-t85WJQCGob img,
-.cid-t85WJQCGob .item-img {
-  width: 100%;
-}
-.cid-t85WJQCGob .item:focus,
-.cid-t85WJQCGob span:focus {
-  outline: none;
-}
-.cid-t85WJQCGob .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-t85WJQCGob .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-t85WJQCGob .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-t85WJQCGob .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-t85WJQCGob .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-t85WJQCGob .mbr-section-title {
-  color: #232323;
-}
-.cid-t85WJQCGob .mbr-text,
-.cid-t85WJQCGob .mbr-section-btn {
-  text-align: left;
-}
-.cid-t85WJQCGob .item-title {
-  text-align: left;
-}
-.cid-t85WJQCGob .item-subtitle {
-  text-align: center;
 }
 .cid-t80EYPbCh5 {
   padding-top: 2rem;
