@@ -1536,12 +1536,6 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
-.cid-t87dQ7ZoBp {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-t87o5cuQBn {
   padding-top: 5rem;
   padding-bottom: 2rem;
@@ -1613,4 +1607,10 @@ a {
 }
 .cid-t87pPFrtNg .item-subtitle {
   text-align: center;
+}
+.cid-t87dQ7ZoBp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
