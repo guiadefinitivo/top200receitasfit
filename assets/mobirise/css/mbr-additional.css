@@ -1403,73 +1403,8 @@ a {
 .cid-t87dQ5UMby .item-subtitle {
   text-align: center;
 }
-.cid-t87dQ6rHvQ {
-  padding-top: 4rem;
-  padding-bottom: 3rem;
-  background-color: #e10000;
-}
-.cid-t87dQ6rHvQ .number-wrap {
-  color: #fafafa;
-  text-align: center;
-}
-.cid-t87dQ6rHvQ .number {
-  color: #ffffff;
-}
-.cid-t87dQ6rHvQ .period {
-  display: block;
-}
-.cid-t87dQ6rHvQ .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-t87dQ6rHvQ .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-t87dQ6rHvQ .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-t87dQ6rHvQ .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-t87dQ6rHvQ .mbr-section-title {
-  color: #ffffff;
-}
-.cid-t87dQ6rHvQ .mbr-text {
-  color: #ffffff;
-}
-.cid-t87dQ6rHvQ .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-t87dQ6rHvQ .icons-menu .soc-item .mbr-iconfont {
-  font-size: 2rem;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #ffb5b5;
-  border: 2px solid #ffb5b5;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-t87dQ6rHvQ .icons-menu .soc-item .mbr-iconfont:before {
-  padding: 0.6rem;
-}
-.cid-t87dQ6rHvQ .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #ffb5b5;
-  color: #000000;
-}
-.cid-t87dQ6rHvQ .mbr-text,
-.cid-t87dQ6rHvQ .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-t87dQ6rHvQ H3 {
-  color: #000000;
-}
 .cid-t87dQ6RhKD {
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -1503,7 +1438,7 @@ a {
 .cid-t87dQ7BFjs {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #17e119;
 }
 .cid-t87dQ7BFjs .mbr-iconfont {
   font-size: 1.4rem !important;
@@ -1524,11 +1459,17 @@ a {
   padding: 1rem 0;
 }
 .cid-t87dQ7BFjs .panel-title-edit {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-t87dQ7BFjs .card .card-header {
   background-color: transparent;
   margin-bottom: 0;
+}
+.cid-t87dQ7BFjs H3 {
+  color: #fafafa;
+}
+.cid-t87dQ7BFjs .panel-text {
+  color: #ffffff;
 }
 .cid-t87dQ7ZoBp {
   padding-top: 30px;
