@@ -1536,14 +1536,73 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
+.cid-t8m840O00L {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #17e119;
+}
+.cid-t8m840O00L .number-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t8m840O00L .number {
+  color: #ffffff;
+}
+.cid-t8m840O00L .period {
+  display: block;
+}
+.cid-t8m840O00L .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-t8m840O00L .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-t8m840O00L .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-t8m840O00L .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-t8m840O00L .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-t8m840O00L .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #fafafa;
+  border: 2px solid #fafafa;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-t8m840O00L .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-t8m840O00L .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #fafafa;
+  color: #000000;
+}
+.cid-t8m840O00L H3 {
+  color: #ffffff;
+}
+.cid-t8m840O00L .mbr-text,
+.cid-t8m840O00L .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-t87o5cuQBn {
   padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-t87oDIjCCG {
-  padding-top: 3rem;
-  padding-bottom: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -1559,7 +1618,7 @@ a {
 }
 .cid-t87pPFrtNg {
   padding-top: 1rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-t87pPFrtNg img,
@@ -1607,6 +1666,21 @@ a {
 }
 .cid-t87pPFrtNg .item-subtitle {
   text-align: center;
+}
+.cid-t8lYxhuQtK {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-t8m6eySIqU {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-t8m64kWwZ7 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
 }
 .cid-t87dQ7ZoBp {
   padding-top: 30px;
