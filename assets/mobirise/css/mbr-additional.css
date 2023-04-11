@@ -704,13 +704,26 @@ a {
 .cid-sUq0zdB9DI .mbr-section-btn {
   color: #e10000;
 }
-.cid-t80toXEPWe {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-tB92aVZOb1 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-t80toXEPWe .mbr-section-subtitle {
+.cid-tB92aVZOb1 .mbr-text,
+.cid-tB92aVZOb1 .mbr-section-btn {
   color: #232323;
+}
+.cid-tB92aVZOb1 .card-title,
+.cid-tB92aVZOb1 .card-box {
+  color: #000000;
+}
+.cid-tB92aVZOb1 .mbr-text,
+.cid-tB92aVZOb1 .link-wrap {
+  color: #ffffff;
+}
+.cid-tB92aVZOb1 .card-box .mbr-text,
+.cid-tB92aVZOb1 .mbr-section-btn {
+  color: #000000;
 }
 .cid-tB8X9n5F9E {
   padding-top: 6rem;
