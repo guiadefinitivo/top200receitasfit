@@ -685,7 +685,7 @@ a {
 .cid-sUq0zdB9DI {
   padding-top: 6rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/frango-proteico-418x239.jpg");
+  background-color: #ffffff;
 }
 .cid-sUq0zdB9DI .image-wrap img {
   width: 100%;
@@ -698,19 +698,35 @@ a {
   }
 }
 .cid-sUq0zdB9DI .mbr-section-title {
-  color: #fafafa;
+  color: #232323;
 }
 .cid-sUq0zdB9DI .mbr-text,
 .cid-sUq0zdB9DI .mbr-section-btn {
-  color: #ffff0b;
+  color: #e10000;
 }
 .cid-t80toXEPWe {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #17e119;
+  background-color: #ffffff;
 }
 .cid-t80toXEPWe .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
+}
+.cid-tB8X9n5F9E {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tB8X9n5F9E .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tB8X9n5F9E .row {
+  flex-direction: row-reverse;
+}
+.cid-tB8X9n5F9E img {
+  width: 100%;
 }
 .cid-t80wK4KIsH {
   padding-top: 3rem;
@@ -977,8 +993,8 @@ a {
   text-align: center;
 }
 .cid-t80uTv4kL0 {
-  padding-top: 4rem;
-  padding-bottom: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
   background-color: #e10000;
 }
 .cid-t80uTv4kL0 .number-wrap {
@@ -1039,11 +1055,11 @@ a {
   color: #ffffff;
 }
 .cid-t80uTv4kL0 H3 {
-  color: #000000;
+  color: #232323;
 }
 .cid-t86Ra99ID7 {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-t86Ra99ID7 .mbr-section-title {
@@ -1106,7 +1122,7 @@ a {
 .cid-t80Sv344UG {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #17e119;
   overflow: hidden;
 }
 .cid-t87dQ1FGXa {
